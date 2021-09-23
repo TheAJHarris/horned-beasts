@@ -1,3 +1,4 @@
+
 Number and name of feature: Create application structure
 
 Estimate of time needed to complete: 1 hour

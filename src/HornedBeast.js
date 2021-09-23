@@ -11,6 +11,7 @@ class HornedBeast extends React.Component {
 
   addFavorites = () => {
     this.setState({favorites: this.state.favorites+1});
+    this.props.displayModal(this.props.title);
   }
   render() {
     return (
