@@ -1,11 +1,10 @@
-# readme
 
-Number and name of feature: Sort by Horns
+Number and name of feature: Create application structure
 
-Estimate of time needed to complete: 30 minutes
+Estimate of time needed to complete: 1 hour
 
 Start time: 1830
 
-Finish time: 
+Finish time: 1915
 
-Actual time needed to complete: 
+Actual time needed to complete: 45
